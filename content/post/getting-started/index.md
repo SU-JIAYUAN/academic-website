@@ -30,16 +30,16 @@ image:
 
 authors:
   - admin
-  #- 吳恩達
+
 
 tags:
   - Academic
   - Blog
 
 categories:
-#  - Demo
-#  - 教程
-- Sharing
+  - Demo
+
+
 ---
 
 ```python
