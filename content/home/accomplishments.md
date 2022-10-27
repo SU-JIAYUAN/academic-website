@@ -54,6 +54,29 @@ item:
     organization: Organizing committee of National College Student Mathematical Modeling Competition
     organization_url: http://www.mcm.edu.cn
     title: First Prize of the National College students Mathematical Modeling Competition in Fujian Province
+  - certificate_url: https://maiimg.com/dec/k98159832640@pdf
+    date_end: ''
+    date_start: '2022-04-01'
+    description: 'C/C++ based programming among Group A'
+    organization: Talent Exchange Center of Ministry of Industry and Information Technology
+    organization_url: https://dasai.lanqiao.cn/
+    title: Third Prize of the Lanqiao Programming Competition in Fujian Province
+
+  - certificate_url: https://maiimg.com/dec/k92491834604@pdf
+    date_end: ''
+    date_start: '2021-06-01'
+    description: 'L186, R219, W183'
+    organization: Ministry of Education Examination Center
+    organization_url: https://cet.neea.edu.cn/
+    title: CET-6 588
+
+  - certificate_url: https://maiimg.com/dec/k90379836992@pdf
+    date_end: '2022-06-01'
+    date_start: '2022-02-01'
+    description: 'Research on GAN-based Chinese Character Font Migration'
+    organization: TouchEdu & MIT
+    organization_url: https://www.mit.edu/
+    title: MIT Computer Vision PBL Research Project
 
 #  - certificate_url: https://www.edx.org
 #    date_end: ''
