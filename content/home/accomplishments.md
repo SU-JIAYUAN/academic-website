@@ -27,7 +27,7 @@ item:
   - certificate_url: https://maiimg.com/dec/k96449795774@pdf
     date_end: ''
     date_start: '2022-06-01'
-    description: 'The global winning of the Finalist Award was less than 2%. Matthew's team was the only Finalist among Fuzhou University in 2022. Matt. was the team leader and responsible for model construction and algorithm implementation based on "Study on the Dynamic Forest Carbon Sequestration"'
+    description: 'The global winning of the Finalist Award was less than 2%. Matthew's team was the only Finalist among Fuzhou University in 2022. Matt. was the team leader and responsible for model construction and algorithm implementation based on the Dynamic Forest Carbon Sequestration'
     organization: COMAP
     organization_url: https://www.comap.com/contests/mcm-icm
     title: Finalist of the Mathematical Contest in Modeling
