@@ -25,7 +25,7 @@ experience:
   - title: Software Development Intern
     company: Ruijie Networks
     company_url: 'https://www.ruijie.com.cn/'
-    company_logo: org-gc
+    company_logo: org-rj
     location: Fuzhou, China
     date_start: '2022-03-07'
     date_end: '2022-06-25'
