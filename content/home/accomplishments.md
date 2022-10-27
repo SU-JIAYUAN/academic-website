@@ -73,7 +73,7 @@ item:
   - certificate_url: https://maiimg.com/dec/k90379836992@pdf
     date_end: '2022-06-01'
     date_start: '2022-02-01'
-    description: 'A MIT cooperation PBL Project that only accepts 211/985/Other Top University Students; As the team Leader, Matthew, personally obtaining $4,150 funding from TouchEdu and 13,000 RMB from Fuzhou University, with two peers from Shanghai University & Xi 'an Jiaotong-Liverpool University, to conduct the research on GAN-based Chinese Character Font Migration'
+    description: 'A MIT cooperation PBL Project that only accepts 211/985/Other Top University Students. As the team Leader, Matthew, personally obtaining $4,150 funding from TouchEdu and 13,000 RMB from Fuzhou University, with two peers from Shanghai University & Xi, an Jiaotong-Liverpool University, to conduct the research on GAN-based Chinese Character Font Migration'
     organization: TouchEdu & MIT
     organization_url: https://www.mit.edu/
     title: MIT Computer Vision PBL Research Project
