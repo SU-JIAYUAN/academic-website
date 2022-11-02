@@ -25,7 +25,7 @@ feature:
     icon_pack: fas
     name: Statistics
   - description: 50%
-    icon: camera-retro
+    icon: music
     icon_pack: fas
     name: Singing
 # Uncomment to use emoji icons.
