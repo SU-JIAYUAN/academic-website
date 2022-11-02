@@ -34,10 +34,10 @@ education:
       year:  Candidate
     - course: BSc in Robotics and Intelligent Devices
       institution: Maynooth University, Ireland
-      year: 2023
+      year: 2019-2023
     - course: BSc in Automation
       institution: Fuzhou University, China
-      year: 2023
+      year: 2019-2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
