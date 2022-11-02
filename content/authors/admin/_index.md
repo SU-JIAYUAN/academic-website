@@ -66,9 +66,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: uploads/resume.pdf
+ - icon: cv
+   icon_pack: ai
+   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-Jiayuan Su is currently a fourth year undergraduate student of Robotics and Intelligent Devices at both Maynooth University & Fuzhou University, and will be a master candidate of artificial intelligence at Zhejiang University in 2023, who maintained the GPA of 3.92/4.0 and ranked 1/58 in his major. 
+Jiayuan Su is currently a fourth year undergraduate student of Robotics and Intelligent Devices at both Maynooth University (Ireland) & Fuzhou University (China), who maintained the GPA of 3.92/4.0, ranked 1/58 in his major and received scholarship from FZU/MU every semester. He will be a master candidate of artificial intelligence at Zhejiang University in 2023. 
 
 He had experience in research and competitions during his undergraduate years, having taken part in multiple research projects(Funded MIT Research Project/SRTP Project/Laboratory Project...) and won multiple awards on mathematical modelling, programming and innovation contests. He will keep going on his academic path.
 
