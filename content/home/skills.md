@@ -21,9 +21,9 @@ feature:
     icon_pack: fab
     name: Programming Language
   - description: 60%
-    icon: chart-line
+    icon: computer
     icon_pack: fas
-    name: Statistics
+    name: Deep Learning
   - description: 50%
     icon: music
     icon_pack: fas
