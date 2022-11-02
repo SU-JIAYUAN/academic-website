@@ -66,9 +66,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
 # and uncomment the lines below.
- - icon: cv
-   icon_pack: ai
-   link: uploads/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -82,4 +82,4 @@ Jiayuan Su is currently a fourth year undergraduate student of Robotics and Inte
 He had experience in research and competitions during his undergraduate years, having taken part in multiple research projects(Funded MIT Research Project/SRTP Project/Laboratory Project...) and won multiple awards on mathematical modelling, programming and innovation contests. He will keep going on his academic path.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
