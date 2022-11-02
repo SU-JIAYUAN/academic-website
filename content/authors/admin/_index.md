@@ -77,9 +77,9 @@ email: ''
 highlight_name: true
 ---
 
-Matthew Jiayuan Su is a forth year undergraduate student of Robotics and Intelligent Devices at both Maynooth University & Fuzhou University, and will also be a master candidate of artificial intelligence at Zhejiang University next year, who maintained excellent academic performance with GPA of 3.92/4.0, ranked 1/58 in his major. 
+Jiayuan Su is currently a fourth year undergraduate student of Robotics and Intelligent Devices at both Maynooth University & Fuzhou University, and will be a master candidate of artificial intelligence at Zhejiang University in 2023, who maintained the GPA of 3.92/4.0 and ranked 1/58 in his major. 
 
-He enjoys experiences of research and competitions, having taken part in multiple research projects and won multiple awards on mathematical modelling, programming and innovation contests. Currently, he decides to continue on his academic path.
+He had experience in research and competitions during his undergraduate years, having taken part in multiple research projects(Funded MIT Research Project/SRTP Project/Laboratory Project...) and won multiple awards on mathematical modelling, programming and innovation contests. He will keep going on his academic path.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
