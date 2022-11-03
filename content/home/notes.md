@@ -7,7 +7,7 @@ widget: collection
 headless: true
 
 # Order that this section appears on the page.
-weight: 63
+weight: 61
 
 title: Learning Notes
 subtitle:
