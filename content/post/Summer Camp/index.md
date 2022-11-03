@@ -1,6 +1,6 @@
 ---
-title: 夏令营回忆 (保研)
-subtitle: Welcome 👋
+title: Recall~保研夏令营
+subtitle: Thanks FZU for giving me the exemption chance. 👋
 
 # Summary for listings and search engines
 summary: Welcome 👋 

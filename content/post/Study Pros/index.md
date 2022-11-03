@@ -1,9 +1,9 @@
 ---
-title: 大学期间对升学&未来发展想法的心路历程
+title: Recall~升学&发展的心路历程
 subtitle: Overall the idea seems like unstable, but marginally stable precisely 👋
 
 # Summary for listings and search engines
-summary: Welcome 👋 
+summary: Hi nice to see ya 👋 
 
 # Link this post with a project
 projects: []
