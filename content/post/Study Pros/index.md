@@ -1,6 +1,6 @@
 ---
-title: 夏令营回忆 (保研)
-subtitle: Welcome 👋
+title: 大学期间对升学&未来发展想法的改变
+subtitle: 心路历程 👋
 
 # Summary for listings and search engines
 summary: Welcome 👋 
@@ -9,13 +9,13 @@ summary: Welcome 👋
 projects: []
 
 # Date published
-date: '2022-10-28T00:00:00Z'
+date: '2022-11-03T00:00:00Z'
 
 # Date updated
-lastmod: '2022-11-02T00:00:00Z'
+lastmod: '2022-11-03T00:00:00Z'
 
 # Is this an unpublished draft?
-draft: false
+draft: true
 
 # Show this page in the Featured widget?
 featured: false
