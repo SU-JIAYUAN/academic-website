@@ -15,7 +15,7 @@ image:
 ---
 
 
-## Python学习中的两大法宝函数（当然可以用在pytorch）
+## 1. Python学习中的两大法宝函数（当然可以用在pytorch）
 
 ![png](./index_1_0.png)
 
