@@ -1,5 +1,5 @@
 ---
-title: PyTorch深度学习快速入门教程
+title: PyTorch深度学习快速入门教程（持续更新中......）
 subtitle: by小土堆👋
 summary: by小土堆👋
 authors:
