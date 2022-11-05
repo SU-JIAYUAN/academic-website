@@ -63,4 +63,70 @@ b. 常见的数据集表示方式
 直接将图片的名称改成label.
 
 
+## 3. Dataset类代码实战
+
+首先，先看一下Dataset类需要怎么overwrite：
+
+```Python
+>>> from torch.utils.data import Dataset
+>>> Dataset?? #or use help(Dataset), but not that detailed as ??
+
+class Dataset(Generic[T_co]):
+    r"""An abstract class representing a :class:`Dataset`.
+
+    All datasets that represent a map from keys to data samples should subclass
+    it. All subclasses should overwrite :meth:`__getitem__`, supporting fetching a
+    data sample for a given key. Subclasses could also optionally overwrite
+    :meth:`__len__`, which is expected to return the size of the dataset by many
+    :class:`~torch.utils.data.Sampler` implementations and the default options
+    of :class:`~torch.utils.data.DataLoader`.
+
+    .. note::
+      :class:`~torch.utils.data.DataLoader` by default constructs a index
+      sampler that yields integral indices.  To make it work with a map-style
+      dataset with non-integral indices/keys, a custom sampler must be provided.
+    """
+
+    def __getitem__(self, index) -> T_co:
+        raise NotImplementedError
+
+    def __add__(self, other: 'Dataset[T_co]') -> 'ConcatDataset[T_co]':
+        return ConcatDataset([self, other])
+```
+知道这些后，就可以开始写代码啦：
+
+``Python·
+from torch.utils.data import Dataset
+from PIL import Image
+import os
+
+class MyData(Dataset):
+    
+    def __init__(self, root_dir, label_dir):
+        self.root_dir = root_dir
+        self.label_dir = label_dir
+        self.path = os.path.join(self.root_dir, self.label_dir)
+        self.img_path = os.listdir(self.path)
+
+def __getitem__(self, idx):
+    img_name = self.img_path[idx]
+    img_item_path = os.path.join(self.root_dir, self.label_dir, img_name)
+    img = Image.open(img_item_path）
+    label = self.label_dir
+    return img, label
+
+def __len__(self):
+    return len(self.img_path)
+
+
+root_dir = "dataset/train"
+ants_label_dir = "ants"
+bees_label_dir = "bees"
+ants_dataset = MyData(root_dir, ants_label_dir)
+bees_dataset = MyData(root_dir, bees_label_dir)
+
+train_dataset = ants_dataset + bees_dataset
+```
+
+
 This post references 小土堆 from bilibili.
