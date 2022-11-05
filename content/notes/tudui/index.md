@@ -43,11 +43,13 @@ is_available() -> bool
 ```
 
 ## 2. Pytorch加载数据初认识
+
 a. 简要介绍Dataset & Dataloader
 
 ![png](./index_2_0.png)
 
 b. 常见的数据集表示方式
+
 第一种：
 ![png](./index_2_1.png)
 
