@@ -42,6 +42,23 @@ is_available() -> bool
     Returns a bool indicating if CUDA is currently available.
 ```
 
-## 
+## 2. Pytorch加载数据初认识
+a. 简要介绍Dataset & Dataloader
+
+![png](./index_2_0.png)
+
+b. 常见的数据集表示方式
+第一种：
+![png](./index_2_1.png)
+
+
+第二种：
+![png](./index_2_2.png)
+![png](./index_2_2_1.png)
+![png](./index_2_2_2.png)
+
+第三种：
+直接将图片的名称改成label.
+
 
 This post references 小土堆 from bilibili.
