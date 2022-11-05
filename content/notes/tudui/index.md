@@ -95,7 +95,7 @@ class Dataset(Generic[T_co]):
 ```
 知道这些后，就可以开始写代码啦：
 
-``Python·
+```Python
 from torch.utils.data import Dataset
 from PIL import Image
 import os
