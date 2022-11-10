@@ -1,5 +1,5 @@
 ---
-title: GRE Vocabulary List 1
+title: GRE Vocabulary List 1 （暂搁置 待更新）
 subtitle: It's hard to persist memorizing GRE vocabularies, so I make notes for reminding me the progress.👋
 summary: It's hard to persist memorizing GRE vocabularies, so I make notes for reminding me the progress.👋
 authors:
