@@ -10,7 +10,7 @@ last_name: Su
 superuser: true
 
 # Role/position/tagline
-role: Master Candidate of Artificial Intelligence
+role: Master Student Candidate of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -22,9 +22,9 @@ bio: My research interests include machine learning, computer vision and AI in h
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
   - Computer Vision
-  - AI in Healthcare
+  - Natural Language Processing
+  - AIM
 
 # Education to show in About widget
 education:
@@ -34,10 +34,10 @@ education:
       year:  Candidate
     - course: BSc in Robotics and Intelligent Devices
       institution: Maynooth University, Ireland
-      year: 2019-2023
+      year: 2023
     - course: BSc in Automation
       institution: Fuzhou University, China
-      year: 2019-2023
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -84,7 +84,7 @@ email: ''
 highlight_name: true
 ---
 
-Jiayuan Su is currently a fourth year undergraduate student of Robotics and Intelligent Devices at both Maynooth University (Ireland) & Fuzhou University (China), who maintained the GPA of 3.92/4.0, ranked 1/58 in his major and received scholarship from FZU/MU every semester. He will be a master candidate of artificial intelligence at Zhejiang University in 2023. 
+Jiayuan Su is currently a fourth year undergraduate student of Robotics and Intelligent Devices at both Maynooth University (Ireland) & Fuzhou University (China), who maintained the GPA of 3.92/4.0, ranked 1/58 in his major and received scholarship from FZU/MU every semester. He will be a master student candidate of artificial intelligence at Zhejiang University in 2023. 
 
 He had experience in research and competitions during his undergraduate years, having taken part in multiple research projects(Funded MIT Research Project/SRTP Project/Laboratory Project...) and won multiple awards on mathematical modelling, programming and innovation contests. He will keep going on his academic path.
 
